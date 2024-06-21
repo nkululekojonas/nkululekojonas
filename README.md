@@ -1,16 +1,34 @@
-## Hi there 👋
+# About Me 😊
 
-<!--
-**nkululekojonas/nkululekojonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal GitHub repository! This space serves as a collection of my projects, interests, and a little bit about myself.
 
-Here are some ideas to get you started:
+## Introduction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello 👋 ! My name is Nkululeko Jonas. I am a web developer from Sydney, with a passion for fullstack development. This repository is a showcase of my work, hobbies, and anything else I find interesting.
+
+## Skills
+
+- **Programming Languages**: Python, JavaScript, Swift, Bash.
+- **Tools & Technologies**: Git, Docker.
+- **Frameworks & Libraries**: React, Django.
+
+## Interests
+
+Apart from coding, I enjoy:
+- **Music**: Anything by Cleo Sol.
+- **Photography**: Street photography with my Lecia Q3.
+- **Movies**: My favourites include, Goodfellas, Forest Gump and Past Lives.
+
+## Contact
+
+Feel free to reach out to me:
+
+- **Email**: nkululekojonas7@gmail.com
+- **LinkedIn**: [nkululekojonas](#)
+- **Twitter**: [www.twitter.com/nkuluekojonas](#)
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
+
+Thank you for visiting my personal GitHub repository!
