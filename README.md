@@ -15,7 +15,7 @@ Hello 👋 ! My name is Nkululeko Jonas. I am a web developer from Sydney, with 
 ## Interests
 
 Apart from coding, I enjoy:
-- **Music**: Anything by Cleo Sol.
+- **Music**: Anything by Cleo Sol & Dominic Fike.
 - **Photography**: Street photography with my Lecia Q3.
 - **Movies**: My favourites include, Goodfellas, Forest Gump and Past Lives.
 
