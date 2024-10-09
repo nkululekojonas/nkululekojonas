@@ -8,9 +8,9 @@ Hello 👋 ! I go by Jonas, full-name Nkululeko Jonas, I am a web developer from
 
 ## Skills
 
-- **Programming Languages**: Python, JavaScript, Swift, Bash.
+- **Programming Languages**: HTML + CSS, JavaScript, Python, Swift, Bash.
 - **Tools & Technologies**: Git, Docker.
-- **Frameworks & Libraries**: React, Django.
+- **Frameworks & Libraries**: Bootstrap, React, Django.
 
 ## Interests
 
@@ -20,8 +20,8 @@ Apart from coding, I enjoy:
 - **Movies**: My favourites are Goodfellas and Past Lives.
 
 ## In Progress
-- [ ] Personal site nkululekojonas.dev[https://www.nkululekojonas.dev]
-- [ ] Personal Blog, a space to share thoughts and ideas about everything I've been learning/working on.
+- [ ] Personal site [nkululekojonas.dev](https://www.nkululekojonas.dev)
+- [ ] Personal Blog (A space to share my thoughts and ideas about everything I've been learning/working on)
 
 ## License
 
