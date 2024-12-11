@@ -4,7 +4,7 @@ Welcome to my personal GitHub repository! This space serves as a collection of m
 
 ## Introduction
 
-Hello 👋 ! I go by Jonas, full-name Nkululeko Jonas, I am a web developer from Sydney, with a passion for fullstack development. This repository is a showcase of my work, hobbies, and anything else I find interesting.
+Hello 👋 ! I go by Jonas, I am a web developer from Sydney, with a passion for fullstack development. This repository is a showcase of my work, hobbies, and anything else I find interesting.
 
 ## Skills
 
@@ -20,7 +20,7 @@ Apart from coding, I enjoy:
 - **Movies**: My favourites are Goodfellas and Past Lives.
 
 ## In Progress
-- [ ] Personal site [nkululekojonas.dev](https://www.nkululekojonas.dev)
+- [ ] Personal site [nkululekojonas.dev](https://www.nkululekojonas.dev) *currently under construction*
 - [ ] Personal Blog (A space to share my thoughts and ideas about everything I've been learning/working on)
 
 ## License
