@@ -20,7 +20,7 @@ Apart from coding, I enjoy:
 - **Movies**: My favourites are Goodfellas and Past Lives.
 
 ## In Progress
-- [ ] Personal site [nkululekojonas.dev](https://www.nkululekojonas.dev) *currently under construction*
+- [ ] Personal site [nkululekojonas.dev](https://www.nkululekojonas.dev)
 - [ ] Personal Blog (A space to share my thoughts and ideas about everything I've been learning/working on)
 
 ## License
