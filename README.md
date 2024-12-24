@@ -1,10 +1,10 @@
+# Introduction
+
+Hey 👋 ! Welcome to my personal GitHub repository! Here you'll find everything I've been tinkering with, hopefully always as complete projects 🤞.
+
 # About Me 😊
 
-Welcome to my personal GitHub repository! This space serves as a collection of my projects, interests, and a little bit about myself.
-
-## Introduction
-
-Hello 👋 ! I go by Jonas, I am a web developer from Sydney, with a passion for fullstack development. This repository is a showcase of my work, hobbies, and anything else I find interesting.
+I go by Jonas, I am a web developer, with a focus on fullstack development, I love playing around with new tool and technologies and like to think I'm always learning.
 
 ## Skills
 
