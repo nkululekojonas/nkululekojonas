@@ -2,7 +2,7 @@
 
 Hey 👋, I'm Jonas! Welcome to my Github, Here you'll find everything I've been tinkering with, hopefully always as complete projects.
 
-# About Me 😊
+# About Me
 
 I am a web developer, In my spare time love playing around with new tool and technologies.
 
