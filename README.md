@@ -9,7 +9,7 @@ Hey 👋, I'm Jonas! Welcome to my Github. I'm a Front-End Developer with a stro
 - **Tools & Technologies**: Git, Docker, Kubernetes.
 
 ## In Progress
-- [ ] Personal site -> [nkululekojonas.dev](https://www.nkululekojonas.dev)
+- [ ] Personal Site 
 - [ ] Personal Blog 
 
 ## License
